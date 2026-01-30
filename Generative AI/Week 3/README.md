@@ -70,6 +70,8 @@ The VAE is trained to minimize a combined loss function:
 
 The notebook includes a visualization of the **Latent Space Clustering**. By projecting the test set into the 2D latent space, we can observe how different digits form distinct clusters, demonstrating the VAE's ability to learn a meaningful representation of the data.
 
+![Latent Space Clustering](./images/latent_space_clustering.png)
+
 ## Libraries Used
 
 - `tensorflow` (Keras)
