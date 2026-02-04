@@ -4,7 +4,7 @@ This document explains the code and concepts behind the **N-Gram Model** used in
 
 ---
 
-## 1. The Concept (In Plain English)
+## 1. The Concept
 
 Before diving into code, it is important to understand that **N-Grams are not "AI"** in the modern sense (like ChatGPT). They are pure **statistics**.
 
